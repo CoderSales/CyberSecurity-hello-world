@@ -162,3 +162,8 @@ cython_debug/
 # Custom
 input.txt
 output.txt
+in2.txt
+out2.txt
+archive/*
+archive
+*.txt
