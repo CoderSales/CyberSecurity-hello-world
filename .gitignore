@@ -167,3 +167,6 @@ out2.txt
 archive/*
 archive
 *.txt
+archive/*/*
+archive/*/*/*
+archive/*/*/*/*
